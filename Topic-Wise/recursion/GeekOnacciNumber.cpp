@@ -10,7 +10,6 @@ int solve(int a, int b, int c, int n, int counter)
 
     solve(b, c, a + b + c, n, counter + 1);
 }
-
 int main()
 {
 
