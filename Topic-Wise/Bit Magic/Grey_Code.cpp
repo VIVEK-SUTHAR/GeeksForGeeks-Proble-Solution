@@ -35,8 +35,6 @@ public:
     }
 };
 
-// { Driver Code Starts.
-
 int main()
 {
     int t;
@@ -55,5 +53,3 @@ int main()
         cout << "\n";
     }
 }
-
-// } Driver Code Ends
